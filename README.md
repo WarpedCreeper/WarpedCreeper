@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WarpedCreeper
 - 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning Phython
-- 💞️ I’m looking to collaborate on creating new Social Net
+- 🌱 I’m currently experementing with AI
 - 📫 How to reach me greenedge2022app@gmail.com
 
 <!---
